@@ -6,4 +6,4 @@ During my free time, I'm developing personal projects to enhance my skills. My p
 While my GitHub page may not boast an extensive portfolio at the moment, I'm committed to creating more interesting projects. I'm on a continuous path of personal and professional growth and improvement. Stay tuned for more exciting updates!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altynaisalieva)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altynaisalieva&layout=compact)
